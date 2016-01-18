@@ -25,8 +25,9 @@ Dimanche 31 janvier
 * GitHub Pages
 
 ## Conseils
-Soigner vos messages de commits.
-Commenter votre code.
+* Commenter votre code.
+* Soigner vos messages de commits.
+* Commenter votre code.
 
 
 ## Ressources
