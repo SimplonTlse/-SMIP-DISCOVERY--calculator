@@ -10,8 +10,8 @@ Réaliser une calculatrice. L'utilisateur pourra soit cliquer sur des boutons so
 
 # Consignes 
 * Nom du repo Github -SMIP-DISCOVERY--calculator
-* Héberger le site avec Github Pages https://pages.github.com
 * Envoyez nous le lien de votre projet pour qu'on le partage ici
+* Héberger le site avec Github Pages https://pages.github.com
 
 
 # Deadline 
